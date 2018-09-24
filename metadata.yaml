@@ -1,10 +1,13 @@
 _repo: The-Dickens-Country_56105
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Tyrrell, T. W.
     gutenberg_agent_id: '48672'
     url: http://www.gutenberg.org/2009/agents/48672
+covers:
+- cover_type: archival
+  image_path: 56105-h/images/cover.jpg
 creator:
   author:
     agent_name: Kitton, Frederic George
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '35197'
     url: http://www.gutenberg.org/2009/agents/35197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56105#The-Dickens-Country
 gutenberg_issued: '2017-12-03'
 gutenberg_type: Text
 identifiers:
